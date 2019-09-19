@@ -1,2 +1,2 @@
 # Goose-X
-Goose-X Margin Trading Bot.
+Goose-X Margin Trading Bot
